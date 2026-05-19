@@ -156,7 +156,7 @@ PROC main()
   zeromem(tokens, 256)
   zeromem(cmdbuf, 1024)
 
-  IF FALSE THEN WriteF('$VER: RGBLaunch 1.0 (19.0.2026)')
+  IF FALSE THEN WriteF('$VER: RGBLaunch 1.0 (19.5.2026)')
 
   /* ------------------------------------------------------------------ */
   /* Determine launch context                                           */
